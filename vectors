@@ -1,0 +1,7 @@
+making a 2d vector of size mxn with all elements -1 : vector<vector<int>> vec(m,vector<int>(n,-1));
+
+making a vector of pair: vector<pair<int,int>> p;
+pushing in it: p[i]= {nums[i],i};
+
+instead of using pair<int,int> everywhere we can use the alias using int1= pair<int,int>;
+
