@@ -23,6 +23,10 @@
       20---------------------------------------O(2^N)  -> exponential-----------------> use recursion
       11---------------------------------------N!
 
+      If array ka question hai and constraints are like ki nums[i]<=10^5 to
+                          1) I can't write a O(n^2) solution for sure, right?
+                          2) but ye ho skta hai ki i need to sort the array kyunki O(nlogn) will be less than 10^8
+
 * Debug
  
     1. Dry run the code and use the "custom input" button
