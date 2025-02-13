@@ -10,4 +10,4 @@ instead of using pair<int,int> everywhere we can use the alias using int1= pair<
 
 vector<vector<vector<int>>> dp(n+1,vector<vector<int>>(m+1,vector<int>(l+1,-1)) ==> vector<vvi>dp(n+1,vvi(m+1,vi(3,-1)));
 
-
+Agr khr ki array ko O(n) me solve krna hai and it's sorted ascending or descending, then it surely can be "two pointer approach" 
