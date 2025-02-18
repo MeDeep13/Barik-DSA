@@ -7,3 +7,4 @@ Possible ways to solve are: ( if not DP)
   * prefix sum
   * bit manipulation
   * heaps
+  * Other's like stake, queue, and all
