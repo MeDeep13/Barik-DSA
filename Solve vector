@@ -1,9 +1,9 @@
-Possible ways to solve are:
-  * sort
-  * BS
+Possible ways to solve are: ( if not DP)
+  * sort -> indication: constraints 
+  * BS -> 10^18
+  * heap -> improves time complexity
   * two pointers
   * sliding window
   * prefix sum
   * bit manipulation
-  * Dp
   * heaps
