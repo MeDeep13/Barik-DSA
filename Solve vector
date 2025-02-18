@@ -1,0 +1,9 @@
+Possible ways to solve are:
+  * sort
+  * BS
+  * two pointers
+  * sliding window
+  * prefix sum
+  * bit manipulation
+  * Dp
+  * heaps
